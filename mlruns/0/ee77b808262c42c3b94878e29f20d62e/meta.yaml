@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/STEPI/mlflow.test/mlruns/0/ee77b808262c42c3b94878e29f20d62e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee77b808262c42c3b94878e29f20d62e
+run_name: honorable-chimp-480
+run_uuid: ee77b808262c42c3b94878e29f20d62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708540420372
+status: 1
+tags: []
+user_id: ELCOT

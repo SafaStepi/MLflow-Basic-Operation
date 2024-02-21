@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/STEPI/mlflow.test/mlruns/0/9c30439d4ec74a7eb74c65b96cc2ad1b/artifacts
+end_time: 1708539434360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c30439d4ec74a7eb74c65b96cc2ad1b
+run_name: selective-grouse-534
+run_uuid: 9c30439d4ec74a7eb74c65b96cc2ad1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708539425750
+status: 3
+tags: []
+user_id: ELCOT

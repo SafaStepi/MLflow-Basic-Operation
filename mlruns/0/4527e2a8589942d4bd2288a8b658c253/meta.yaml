@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/STEPI/mlflow.test/mlruns/0/4527e2a8589942d4bd2288a8b658c253/artifacts
+end_time: 1708539149518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4527e2a8589942d4bd2288a8b658c253
+run_name: amusing-asp-229
+run_uuid: 4527e2a8589942d4bd2288a8b658c253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708539131780
+status: 3
+tags: []
+user_id: ELCOT

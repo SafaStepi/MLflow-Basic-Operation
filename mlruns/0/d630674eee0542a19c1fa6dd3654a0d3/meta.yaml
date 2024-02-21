@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/STEPI/mlflow.test/mlruns/0/d630674eee0542a19c1fa6dd3654a0d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d630674eee0542a19c1fa6dd3654a0d3
+run_name: caring-fish-122
+run_uuid: d630674eee0542a19c1fa6dd3654a0d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708540210362
+status: 1
+tags: []
+user_id: ELCOT
