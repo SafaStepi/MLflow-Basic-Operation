@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/STEPI/mlflow.test/mlruns/0/1284f405e22848c2937d80bf3ed7a83b/artifacts
+end_time: 1708464314517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1284f405e22848c2937d80bf3ed7a83b
+run_name: efficient-moose-954
+run_uuid: 1284f405e22848c2937d80bf3ed7a83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708464295188
+status: 3
+tags: []
+user_id: ELCOT
